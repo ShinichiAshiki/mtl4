@@ -26,7 +26,7 @@ extern int    Style            = 0;
 extern string AsiaDesc       = "Asia";
 extern color  AsiaColor      = LightCyan;
 extern string AsiaOpen       = "09:00";
-extern string AsiaClose      = "15:00";
+extern string AsiaClose      = "16:00";
 
 extern string EuropeDesc     = "Europe";
 extern color  EuropeColor    = Linen;
